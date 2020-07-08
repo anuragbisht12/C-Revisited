@@ -1,4 +1,4 @@
-// Namespace declaration
+// Namespace declaration : allows organizing too many classes ,  Console is class
 // A class
 // Class methods
 // Class attributes
