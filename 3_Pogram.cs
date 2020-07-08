@@ -17,7 +17,9 @@ Protected  Protected access specifier allows a child class to access the member 
 Internal  Internal access specifier allows a class to expose its member variables and member functions to other functions and objects in the current assembly
 Protected internal  The protected internal access specifier allows a class to hide its member variables and member functions from other class objects and functions, except a child class within the same application.
 
-Access specifiers specify the access rules for the members as well as the class itself. If not mentioned, then the default access specifier for a class type is internal. Default access for the members is private.
+***Access specifiers specify the access rules for the members as well as the class itself. 
+If not mentioned, then the default access specifier for a class type is internal. 
+Default access for the members is private.***
 
 Data type specifies the type of variable, and return type specifies the data type of the data the method returns, if any.
 
